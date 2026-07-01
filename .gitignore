@@ -1,0 +1,14 @@
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+
+# Never commit secrets
+.env
+application-local.properties
